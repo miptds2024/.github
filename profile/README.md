@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Тебе сюда!](https://github.com/miptds2024/mipt-ds-24/wiki)👩‍💻
+
 <!--
 
 **Here are some ideas to get you started:**
